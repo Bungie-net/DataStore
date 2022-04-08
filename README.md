@@ -18,7 +18,7 @@ or
 Why use DataStore instead of the other state management solutions? Well, when we looked at our state management needs, a few goals surfaced:
 
 1. **Intuitive**: The simplest, clearest usage pattern should also be the easiest one. Other state management solutions require significant boilerplate - DataStore minimizes that.
-2. **Type-safe**: Not only should typing be enforced, it should infer as much as possible. Writing types manually conracts goal #1.
+2. **Type-safe**: Not only should typing be enforced, it should infer as much as possible. Writing types manually contradicts goal #1.
 3. **Lightweight**: Most state managment amounts to setting and changing individual properties. Assuming patterns beyond that accomplishes little. DataStore is very extensible for more divergent patterns, but covers most use-cases out of the box.
 4. **Decentralized**: Rather than having one large, centralized store created from many segments, DataStore is decentralized, and depedencies between individual stores are managed manually by those stores. This is useful for sites composed of independent pieces rather than monolithic architectures, although DataStore functions perfectly well in either scenario.
 

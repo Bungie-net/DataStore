@@ -1,6 +1,6 @@
 {
     "name": "@bungie/datastore",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "dependencies": {
         "deep-equal": "2.0.5",
         "promise.allsettled": "1.0.4",
