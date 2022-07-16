@@ -1,8 +1,6 @@
 [![NPM version][npm-version-image]][npm-url]
 [![MIT License][license-image]][license-url]
 
-Hey CT! ❤
-
 # DataStore
 
 **DataStore** is a simple and intuitive isomorphic state management system, built in and optimized for TypeScript, with React integration.
